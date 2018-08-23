@@ -1,3 +1,7 @@
+# FORK NOTES
+
+We use this Fork for the `categories-now-hash` branch in which the author fixes deprecation warnings when using the lib. If/when the PR goes through (https://github.com/octopress/paginate/pull/45), we can switch back to the official maintainer.
+
 # Octopress Paginate
 
 Simple and flexible pagination for Jekyll sites featuring:
